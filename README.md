@@ -43,7 +43,9 @@ Recommended Response
         v
 Discord SOC Notification
 ```
+## Architecture Diagram
 
+![Wazuh SOC Triage Architecture](wazuh-soc-architecture.png)
 ## Current Features
 
 - Authenticated webhook alert ingestion
